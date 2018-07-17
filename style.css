@@ -1,0 +1,94 @@
+/* Whole document */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    width: 800px;
+    margin: auto;
+    background: #FFFFFF;
+    padding: 10px 10px 10px 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/*
+.title {
+    display: none;
+}
+*/
+
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Title of the resume */
+h1.primary {
+    font-size: 2em;
+    margin-bottom: 0px;
+}
+h1.secondary {
+    margin-top: 0;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+/* Table Data */
+table {
+    background: #f1f1f1;
+    padding: 5px;
+}
+
+/* Titles of categories */
+h2 {
+    color: #397249;
+}
+/* There is a bar just before each category */
+h2:before {
+    content: "";
+    display: inline-block;
+    margin-right:1%;
+    width: 16%;
+    height: 10px;
+    background-color: #9CB770;
+}
+
+/* Definitions */
+dt {
+    float: left;
+    clear: left;
+    width: 17%;
+    font-size: 0.9em;
+    padding-right: 15px;
+}
+dd {
+    margin-left: 17%;
+    border-left: 1px solid #a0a0a0;
+    padding-left: 15px;
+}
+p {
+    margin-top:0;
+    margin-bottom:7px;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: center
+}
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #397249;
+}
+a:hover, a:active {
+    background-color: #397249;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-shadow: 1px 1px 1px #333;
+}
+
+/* Horizontal separators */
+hr {
+    color: #A6A6A6;
+}
