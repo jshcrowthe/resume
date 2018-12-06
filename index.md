@@ -4,7 +4,7 @@
 +--------------+--------------+
 | **Phone**    | \(801) 473-7967 |
 +--------------+---------------+
-| **Address**  | 1885 California St. Apt 25, Mountain View, CA 94041 |  
+| **Address**  | 269 N 250 W, American Fork, UT 84003 |  
 +--------------+---------------+
 | **Email**    | jshcrowthe@gmail.com |  
 +--------------+---------------+
@@ -15,7 +15,12 @@ I am a Software Engineer with a passion for the Web. I strive to develop perform
 
 ## Experience
 
-February 2017 - Present  
+September 2018 - Present
+:   **Software Engineer** at WalmartLabs
+
+    As a member of the Edge Services team, I was responsible for maintaining the API and dashboard through which all of the CDN, DNS, and edge configuration was created and deployed for `walmart.com`. 
+
+February 2017 - September 2018  
 :   **Software Engineer** at Google
 
     As Technical Lead of the Firebase JSCore team, I was in charge of several high profile projects across the Firebase Web Landscape, including:
