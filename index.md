@@ -15,7 +15,13 @@ I am a Software Engineer with a passion for the Web. I strive to develop perform
 
 ## Experience
 
-September 2018 - Present
+March 2019 - Present
+:   **Software Engineer** at Google
+
+    As a member of the DevRel Infrastructure team, I was responsible for building the service infrastructure, and UI for the google.dev product.
+
+
+September 2018 - March 2019
 :   **Software Engineer** at WalmartLabs
 
     As a member of the Edge Services team, I was responsible for maintaining the API and dashboard through which all of the CDN, DNS, and edge configuration was created and deployed for `walmart.com`. 
